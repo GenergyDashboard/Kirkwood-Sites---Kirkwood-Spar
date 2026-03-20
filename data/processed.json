@@ -1,9 +1,9 @@
 {
   "plant": "kirkwood spar power meter",
-  "last_updated": "2026-03-20 10:38 SAST",
+  "last_updated": "2026-03-20 11:39 SAST",
   "date": "2026-03-20",
-  "total_kwh": 73.65,
-  "last_hour": 9,
+  "total_kwh": 129.2,
+  "last_hour": 10,
   "status": "ok",
   "alerts": {
     "offline": false,
@@ -20,11 +20,11 @@
     }
   },
   "debug": {
-    "curve_fraction": 0.253,
-    "expected_by_now": 169.5,
-    "actual_kwh": 73.65,
-    "pace_trigger": 50.9,
-    "projected_total": 291.1,
+    "curve_fraction": 0.372,
+    "expected_by_now": 249.4,
+    "actual_kwh": 129.2,
+    "pace_trigger": 74.8,
+    "projected_total": 347.1,
     "low_day_kwh": 129.0,
     "sunrise": 5.92,
     "sunset": 18.08,
@@ -44,7 +44,7 @@
     9.11,
     26.52,
     36.67,
-    0.0,
+    55.55,
     0.0,
     0.0,
     0.0,
